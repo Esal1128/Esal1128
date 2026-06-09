@@ -20,6 +20,6 @@
 
 ## 📝 Writing
 
-- **note** → https://note.com/safuringo
-- **Zenn** → https://zenn.dev/safuringo
+- **note** → [https://note.com/safuringo](https://note.com/nano_quality)
+- **Zenn** → [https://zenn.dev/safuringo](https://zenn.dev/marusuke)
 - **All links** → https://lit.link/safuringo
