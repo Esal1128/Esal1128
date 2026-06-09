@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Esal1128 👋
 
-<!--
-**Esal1128/Esal1128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI × 自動化 × 副業 / Automation & Side Income**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🇯🇵 PythonとAIを使って、SNS発信を自動化しています。  
+🇺🇸 Building automated content publishing systems with Python & Claude API.
+
+---
+
+## 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat&logo=anthropic&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+
+---
+
+## 📝 Writing
+
+- **note** → https://note.com/safuringo
+- **Zenn** → https://zenn.dev/safuringo
+- **All links** → https://lit.link/safuringo
